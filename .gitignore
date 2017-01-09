@@ -3,6 +3,6 @@ __pycache__/
 */__pycache__/
 *.py[cod]
 *$py.class
-
+.vscode
 # OS-X
 .DS_Store
